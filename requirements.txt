@@ -1,0 +1,6 @@
+uvicorn
+pydantic
+fastapi
+sqlalchemy
+sqlalchemy[asyncio]
+pydantic[email]
